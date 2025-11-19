@@ -1,1 +1,0 @@
-1 veids ka dabut php ir "XAMPP"
