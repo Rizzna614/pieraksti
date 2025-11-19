@@ -1,0 +1,4 @@
+1 veids ka dabut php ir "XAMPP" (itka vienkarsakais)
+2 veidas ka dabut php ir no "php.net" bet tad nebus ini fails, kuru pasasm vajag uztaisit (php.ini-development janokope un japarsauc uz php.ini laikam; php.ini faila jaatkomente pareizas rindinas)
+
+noderīgas vietne: devdocs.io; php.net; 
